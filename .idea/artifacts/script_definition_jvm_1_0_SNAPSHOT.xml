@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="script-definition-jvm-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/script-definition/build/libs</output-path>
+    <root id="archive" name="script-definition-jvm-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="ScriptRunner.script-definition.jvmMain" />
+    </root>
+  </artifact>
+</component>
